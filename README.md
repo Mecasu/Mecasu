@@ -4,7 +4,9 @@
 
 Connect with me:
 
-<img align="center" src="https://www.linkedin.com/in/melih-can-sunay-0021a8106/" alt="[https://www.linkedin.com/in/melih-can-sunay-0021a8106/](https://www.linkedin.com/in/melih-can-sunay-0021a8106/)" height="30" width="40" style="max-width: 100%;">
+<a href="https://www.linkedin.com/in/melih-can-sunay-0021a8106/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Melih Can Sunay LinkedIn" height="30" width="40" />
+</a>
 
 
 
